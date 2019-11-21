@@ -1,4 +1,4 @@
-# Music Classification
+# Musical Instrument Classification
 This repo contains modules for music classification tasks. The file 
 `audio_classify.py` contains functions to preprocess audio files, extract 
 features, and train classifiers. The file `figures.py` contains functions to 
